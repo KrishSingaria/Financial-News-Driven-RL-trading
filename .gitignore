@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pkl
+*.log
+*.pt
+.env/
+.env
+data/
+models/
+.venv/
+.venv
+logs/
